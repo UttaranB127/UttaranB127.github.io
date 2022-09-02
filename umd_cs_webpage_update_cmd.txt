@@ -1,0 +1,3 @@
+rsync -arv uttaranb@junkfood.cs.umd.edu:/fs/wwwusers/uttaranb/* /mnt/w/uttaran_webpage/
+
+rsync -arv /mnt/w/uttaran_webpage/* uttaranb@junkfood.cs.umd.edu:/fs/wwwusers/uttaranb/
