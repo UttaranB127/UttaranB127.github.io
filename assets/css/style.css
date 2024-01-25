@@ -673,6 +673,11 @@ section {
   background: BurlyWood;
 }
 
+.workshop {
+  background: PaleGreen;
+  color: Black;
+}
+
 .pub-link {
   color: var(--theme-color);
   font-size: 12px;
