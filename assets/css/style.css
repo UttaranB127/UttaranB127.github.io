@@ -589,13 +589,13 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Services
+# Body Sections
 --------------------------------------------------------------*/
-.services .icon-box {
+.bodysec .icon-box {
   margin-bottom: 20px;
 }
 
-.services .icon {
+.bodysec .icon {
   float: left;
   display: flex;
   align-items: center;
@@ -608,28 +608,28 @@ section {
   border: 1px solid var(--theme-color);
 }
 
-.services .icon i {
+.bodysec .icon i {
   color: white;
   font-size: 24px;
   line-height: 0;
 }
 
-.services .title {
+.bodysec .title {
   margin-left: 80px;
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
 }
 
-.services .title a {
+.bodysec .title a {
   color: #343a40;
 }
 
-.services .title a:hover {
+.bodysec .title a:hover {
   color: var(--theme-color);
 }
 
-.services .description {
+.bodysec .description {
   margin-left: 80px;
   line-height: 24px;
   font-size: 14px;
